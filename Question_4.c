@@ -7,7 +7,7 @@ int main()
 
     area = 3.14 * radius * radius;
 
-    printf("Area of a circle is %.1f and the radius %.1f", radius, area);
+    printf("Area of a circle is %.1f and  radius is  %.1f", area, radius);
 
     return 0;
 }
