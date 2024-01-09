@@ -2,10 +2,10 @@
 int main()
 {
     int hour, min;
-    printf("Enter a time\n");
+    printf("Enter a time HH:MM format\n");
     scanf("%d:%d", &hour, &min);
 
-    printf("hour %d and  %d minute ", hour, min);
+    printf("Hour %d and  %d Minute ", hour, min);
 
     return 0;
 }
