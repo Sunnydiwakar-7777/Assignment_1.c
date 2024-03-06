@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    printf("\"Hello bro\"");
+    int x=printf("ineuron");
+    
+    printf("%d",x);
 
     return 0;
 }
