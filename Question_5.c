@@ -2,7 +2,7 @@
 int main()
 {
     int length = printf("Jai shree ram\n");
-    printf("jai shree ram %d", length);
+    printf("%d", length);
 
     return 0;
 }
